@@ -47,6 +47,14 @@ public class Ejemplo07 {
 
         promedio_final = suma_total / contador;
         System.out.printf("El promedio final es %.2f\n", promedio_final);
-
+/*
+en este ejemplo, nos muestra while(bandera), en el ejemplo anterior nos
+muestra while(bandera == true). Ambos casos son exactamente lo mismo, 
+solo varía en la forma de escribir.
+Además, dentro de la ejecución del ciclo, en este ejmplo se ha eliminado el 
+condicional, donde cambia la nota si es que esta sobrepasa el límite 
+propuesto. En el presente ejemplo se elimina esa condicion, permitiendonos
+ingresar valores mayores para promediar
+*/
     }
 }

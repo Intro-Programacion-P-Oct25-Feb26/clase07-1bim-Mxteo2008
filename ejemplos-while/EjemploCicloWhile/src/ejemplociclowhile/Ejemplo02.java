@@ -34,3 +34,7 @@ public class Ejemplo02 {
         
     }
 }
+/*
+el código ejecuta solo números impares hasta llegar al límite o hasta que se 
+aproxime
+*/

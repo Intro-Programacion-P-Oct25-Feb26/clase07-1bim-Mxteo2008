@@ -46,3 +46,8 @@ public class Ejemplo10 {
         
     }
 }
+/*
+En el ejemplo 9 se imprime directamente los vlaores en pantalla hasta acabar el
+ciclo, mientras que en este ejemplo los valores se concatenan en a cadena hasta
+que al final se presenta todo de una sola
+*/
